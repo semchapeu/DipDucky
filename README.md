@@ -34,3 +34,5 @@ To upload sketches to a Digispark ATtiny85 there are plenty of tutorials online.
 It includes an (incomplete) mapping between US and German keyboard layouts.
 
 Payload selection via the dip switch is counting in binary. Meaning all dips down is payload 0, first up is payload 1, the second one is 2 and the third one 4. So all up is payload 7.
+
+Note that the URLs in the example payloads are expired. For Windows it would be any PowerShell payload you want and for Linux any shell script.
