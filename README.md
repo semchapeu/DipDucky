@@ -5,7 +5,7 @@ ATtiny85 Rubber Ducky with a dip switch to select between 8 different payloads.
 
 ## Parts
 
-* ATTiny85
+* Digispark ATtiny85
 * 3-Position Dip Switch
 
 ## Tools 
